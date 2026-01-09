@@ -3,7 +3,7 @@
 A professional Ruby gem providing comprehensive access to Pakistan cities data with powerful query methods, statistical analysis, and configurable options. Search cities by name, province, population, or find nearest cities by coordinates.
 
 [![Ruby](https://img.shields.io/badge/ruby-%3E%3D%202.7.0-ruby.svg)](https://www.ruby-lang.org/)
-[![Gem Version](https://badge.fury.io/rb/pak_cities.svg)](https://badge.fury.io/rb/pak_cities)
+[![Gem Version](https://badge.fury.io/rb/pak_cities.svg?icon=si%3Arubygems)](https://rubygems.org/gems/pak_cities)
 
 ## Features
 
